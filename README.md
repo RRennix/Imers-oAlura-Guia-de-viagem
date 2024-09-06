@@ -21,26 +21,3 @@ O projeto utiliza JavaScript para implementar a funcionalidade de busca. Ao digi
 
 ## Contribuindo
 Se você quiser contribuir para este projeto, fique à vontade para enviar um pull request.
-
-## Licença
-Este projeto está licenciado sob a [escolha a licença desejada, por exemplo, MIT].
-
-## Próximos passos
-* **Melhorias na interface:** Implementar um filtro por categoria (praias, montanhas, cidades históricas, etc.).
-* **Funcionalidades adicionais:** Adicionar um sistema de favoritos, permitir que o usuário adicione suas próprias cidades, etc.
-* **Integração com APIs:** Utilizar APIs de mapas para exibir mapas interativos das cidades.
-
-**Observações:**
-
-* **Personalize:** Adapte este README.md para refletir as características específicas do seu projeto.
-* **Detalhes:** Adicione mais detalhes sobre a implementação, desafios enfrentados e soluções encontradas.
-* **Imagens:** Inclua imagens para ilustrar o projeto.
-* **Licença:** Escolha a licença que melhor se adapta ao seu projeto.
-
-**Dicas extras:**
-
-* **Markdown:** Utilize a sintaxe Markdown para formatar o texto do README.md.
-* **Seções:** Organize o README.md em seções claras e concisas.
-* **Atualizações:** Mantenha o README.md atualizado à medida que o projeto evolui.
-
-Com este README.md, você terá uma ótima base para documentar seu projeto no GitHub e facilitar a colaboração com outros desenvolvedores.
